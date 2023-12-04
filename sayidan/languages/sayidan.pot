@@ -1,0 +1,1583 @@
+# Copyright (C) 2018 Kenzap
+# This file is distributed under the same license as the Sayidan package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Sayidan 1.6.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/sayidan\n"
+"POT-Creation-Date: 2018-01-30 12:22:35+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: author.php:20 tag.php:20
+msgid "Search Results for tag: %s"
+msgstr ""
+
+#: category.php:20
+msgid "Search Results for category: %s"
+msgstr ""
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments found"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35 comments.php:50
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:38 comments.php:53
+msgid "← Older Comments"
+msgstr ""
+
+#: comments.php:39 comments.php:54
+msgid "Newer Comments →"
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:78 inc/shortcodes/directory copy.php:345
+#: inc/shortcodes/directory copy.php:500 inc/shortcodes/directory.php:42
+#: inc/shortcodes/directory.php:192
+#: inc/shortcodes/widgets/sayidan-directory.php:28
+msgid "Name"
+msgstr ""
+
+#: comments.php:84 inc/customizer.php:360
+msgid "Email"
+msgstr ""
+
+#: comments.php:89
+msgid "Website"
+msgstr ""
+
+#: footer.php:79
+msgid "Alumni Account"
+msgstr ""
+
+#: footer.php:93
+msgid "Create website"
+msgstr ""
+
+#: functions.php:47
+msgid "Primary"
+msgstr ""
+
+#: header.php:76 header.php:148
+msgid "search..."
+msgstr ""
+
+#: header.php:87 header.php:159
+msgid "Login"
+msgstr ""
+
+#: header.php:91 header.php:163
+msgid "Logout"
+msgstr ""
+
+#: header.php:96 header.php:168
+msgid "Profile"
+msgstr ""
+
+#: inc/customizer.php:22
+msgid "Description"
+msgstr ""
+
+#: inc/customizer.php:35
+msgid "Footer Note"
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "Social Networks"
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "Set up social network links and icons, enter Twitter API keys."
+msgstr ""
+
+#: inc/customizer.php:53
+msgid "Enable/disable social icons in header"
+msgstr ""
+
+#: inc/customizer.php:65
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer.php:76
+msgid "Youtube"
+msgstr ""
+
+#: inc/customizer.php:87
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer.php:98
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/customizer.php:109
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer.php:120
+msgid "Google"
+msgstr ""
+
+#: inc/customizer.php:131
+msgid "Tumblr"
+msgstr ""
+
+#: inc/customizer.php:142
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer.php:153
+msgid "Vimeo"
+msgstr ""
+
+#: inc/customizer.php:164
+msgid "Vkontakte"
+msgstr ""
+
+#: inc/customizer.php:175
+msgid "Disqus"
+msgstr ""
+
+#: inc/customizer.php:186
+msgid "Kenzap"
+msgstr ""
+
+#: inc/customizer.php:197
+msgid "Twitter Consumer Key:"
+msgstr ""
+
+#: inc/customizer.php:208
+msgid "Twitter Consumer Secret:"
+msgstr ""
+
+#: inc/customizer.php:219
+msgid "Twitter Access Token:"
+msgstr ""
+
+#: inc/customizer.php:230
+msgid "Twitter Access Token Secret:"
+msgstr ""
+
+#: inc/customizer.php:242
+msgid "Twitter Username:"
+msgstr ""
+
+#: inc/customizer.php:253
+msgid "Tweets Cache Time (hours):"
+msgstr ""
+
+#: inc/customizer.php:262
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:264
+msgid "Upload a logo to replace the default site name and description in the header"
+msgstr ""
+
+#: inc/customizer.php:273
+msgid "Logo Desktop"
+msgstr ""
+
+#: inc/customizer.php:287
+msgid "Logo Mobile"
+msgstr ""
+
+#: inc/customizer.php:299
+msgid "Logo Footer"
+msgstr ""
+
+#: inc/customizer.php:310
+msgid "Logo Position"
+msgstr ""
+
+#: inc/customizer.php:322
+msgid "Contacts"
+msgstr ""
+
+#: inc/customizer.php:324
+msgid "Set up contact details."
+msgstr ""
+
+#: inc/customizer.php:334
+msgid "Phone Number 1"
+msgstr ""
+
+#: inc/customizer.php:347
+msgid "Phone Number 2"
+msgstr ""
+
+#: inc/customizer.php:368
+msgid "Navigation"
+msgstr ""
+
+#: inc/customizer.php:380
+msgid "Show comments on pages?"
+msgstr ""
+
+#: inc/customizer.php:392
+msgid "Account Link"
+msgstr ""
+
+#: inc/customizer.php:404
+msgid "Login Link"
+msgstr ""
+
+#: inc/customizer.php:412
+msgid "Fonts"
+msgstr ""
+
+#: inc/customizer.php:414
+msgid "Override default theme fonts using Google library."
+msgstr ""
+
+#: inc/customizer.php:414
+msgid "Fonts demo"
+msgstr ""
+
+#: inc/customizer.php:422
+msgid "Heading font family"
+msgstr ""
+
+#: inc/customizer.php:434
+msgid "Menu font family"
+msgstr ""
+
+#: inc/customizer.php:446
+msgid "Body font family"
+msgstr ""
+
+#: inc/customizer.php:463
+msgid "Theme Main Color"
+msgstr ""
+
+#: inc/customizer.php:481
+msgid "Theme Sub Color"
+msgstr ""
+
+#: inc/customizer.php:491
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:492
+msgid "Add custom CSS here"
+msgstr ""
+
+#: inc/customizer.php:504
+msgid "Advanced"
+msgstr ""
+
+#: inc/customizer.php:517
+msgid "Google Maps API Key"
+msgstr ""
+
+#: inc/customizer.php:520
+msgid "Can be obtained here: https://developers.google.com/maps/documentation/javascript/get-api-key"
+msgstr ""
+
+#: inc/customizer.php:526
+msgid "SEO"
+msgstr ""
+
+#: inc/customizer.php:527
+msgid "This theme is already optimized to have good SEO rankings so we do not recommend to use any extra SEO plugins for this purpose. When you finished developing your website make sure Autoptimize and WP Super Cache plugins are enabled. This will ensure your website will have A grade performance."
+msgstr ""
+
+#: inc/customizer.php:527 inc/customizer.php:542
+msgid "Read more"
+msgstr ""
+
+#: inc/customizer.php:539
+msgid "Open Graph Protocol"
+msgstr ""
+
+#: inc/customizer.php:542
+msgid "Enable open graph protocol for sharing."
+msgstr ""
+
+#: inc/customizer.php:552
+msgid "Image quality"
+msgstr ""
+
+#: inc/customizer.php:553
+msgid "Reduced image size quality may significantly improve page loading speeds and thus affect SEO rankings."
+msgstr ""
+
+#: inc/extras.php:44
+msgid "year"
+msgstr ""
+
+#: inc/extras.php:45
+msgid "month"
+msgstr ""
+
+#: inc/extras.php:46
+msgid "week"
+msgstr ""
+
+#: inc/extras.php:47 inc/setup.php:176
+msgid "day"
+msgstr ""
+
+#: inc/extras.php:48 inc/setup.php:178
+msgid "hour"
+msgstr ""
+
+#: inc/extras.php:49 inc/setup.php:182
+msgid "minute"
+msgstr ""
+
+#: inc/extras.php:50 inc/setup.php:180
+msgid "second"
+msgstr ""
+
+#: inc/setup.php:52
+msgid "Main Menu"
+msgstr ""
+
+#: inc/setup.php:53
+msgid "Main Menu - Mobile"
+msgstr ""
+
+#: inc/setup.php:54
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/setup.php:84
+msgid "Sidebar"
+msgstr ""
+
+#: inc/setup.php:86
+msgid "Blog extension sidebar for core functionality"
+msgstr ""
+
+#: inc/setup.php:99
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/setup.php:177
+msgid "days"
+msgstr ""
+
+#: inc/setup.php:179
+msgid "hours"
+msgstr ""
+
+#: inc/setup.php:181
+msgid "seconds"
+msgstr ""
+
+#: inc/setup.php:183
+msgid "minutes"
+msgstr ""
+
+#: inc/shortcodes/blog.php:50
+msgid "Community"
+msgstr ""
+
+#: inc/shortcodes/blog.php:62 inc/shortcodes/blog.php:104
+#: template-parts/content-blog-index.php:29 template-parts/content-blog.php:35
+msgid "no comments"
+msgstr ""
+
+#: inc/shortcodes/blog.php:62 inc/shortcodes/blog.php:104
+#: template-parts/content-blog-index.php:29 template-parts/content-blog.php:35
+msgid "one comment"
+msgstr ""
+
+#: inc/shortcodes/blog.php:62 inc/shortcodes/blog.php:104
+#: template-parts/content-blog-index.php:29 template-parts/content-blog.php:35
+msgid "comments"
+msgstr ""
+
+#: inc/shortcodes/blog.php:87
+msgid "News"
+msgstr ""
+
+#: inc/shortcodes/blog.php:109
+msgid "sticky"
+msgstr ""
+
+#: inc/shortcodes/blog_posts.php:81
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/shortcodes/blog_posts.php:81
+msgid "<strong>1</strong> Comment"
+msgstr ""
+
+#: inc/shortcodes/blog_posts.php:81
+msgid "<strong>%</strong> Comments"
+msgstr ""
+
+#: inc/shortcodes/career_list.php:25 inc/shortcodes/career_list.php:34
+#: template-parts/content-career.php:16 template-parts/content-career.php:25
+msgid "Not specified"
+msgstr ""
+
+#: inc/shortcodes/career_list.php:26 template-parts/content-career.php:17
+msgid "Practice"
+msgstr ""
+
+#: inc/shortcodes/career_list.php:27 template-parts/content-career.php:18
+msgid "Full-Time"
+msgstr ""
+
+#: inc/shortcodes/career_list.php:28 template-parts/content-career.php:19
+msgid "Part-Time"
+msgstr ""
+
+#: inc/shortcodes/career_list.php:29 template-parts/content-career.php:20
+msgid "Freelance"
+msgstr ""
+
+#: inc/shortcodes/career_list.php:30 template-parts/content-career.php:21
+msgid "Contract"
+msgstr ""
+
+#: inc/shortcodes/career_list.php:35
+msgid "&lt; $20,000"
+msgstr ""
+
+#: inc/shortcodes/career_list.php:36 template-parts/content-career.php:27
+msgid "$20,000 - $50,000"
+msgstr ""
+
+#: inc/shortcodes/career_list.php:37 template-parts/content-career.php:28
+msgid "$50,000 - $100,000"
+msgstr ""
+
+#: inc/shortcodes/career_list.php:38 template-parts/content-career.php:29
+msgid "$100,000 - $150,000"
+msgstr ""
+
+#: inc/shortcodes/career_list.php:39 template-parts/content-career.php:30
+msgid "$150,000 - $200,000"
+msgstr ""
+
+#: inc/shortcodes/career_list.php:40
+msgid "&gt; $200,000"
+msgstr ""
+
+#: inc/shortcodes/career_list.php:53
+msgid "Career Opportunity"
+msgstr ""
+
+#: inc/shortcodes/career_list.php:57
+msgid "Filter"
+msgstr ""
+
+#: inc/shortcodes/career_list.php:60 inc/shortcodes/directory copy.php:335
+#: inc/shortcodes/directory copy.php:490 inc/shortcodes/directory.php:32
+#: inc/shortcodes/directory.php:182
+#: inc/shortcodes/widgets/sayidan-directory.php:18
+msgid "Keywords (e.g. name, city, school...)"
+msgstr ""
+
+#: inc/shortcodes/career_list.php:63
+msgid "Location (e.g. Country, City...)"
+msgstr ""
+
+#: inc/shortcodes/career_list.php:117 inc/shortcodes/directory copy.php:336
+#: inc/shortcodes/directory copy.php:491 inc/shortcodes/directory.php:33
+#: inc/shortcodes/directory.php:183
+#: inc/shortcodes/widgets/sayidan-directory.php:19
+msgid "Search"
+msgstr ""
+
+#: inc/shortcodes/career_list.php:127
+msgid "Company"
+msgstr ""
+
+#: inc/shortcodes/career_list.php:128
+msgid "Position"
+msgstr ""
+
+#: inc/shortcodes/career_list.php:129 inc/shortcodes/directory copy.php:348
+#: inc/shortcodes/directory copy.php:502 inc/shortcodes/directory.php:45
+#: inc/shortcodes/directory.php:194
+#: inc/shortcodes/widgets/sayidan-directory.php:31
+msgid "Location"
+msgstr ""
+
+#: inc/shortcodes/career_list.php:130
+msgid "Rate"
+msgstr ""
+
+#: inc/shortcodes/career_list.php:131
+msgid "Role"
+msgstr ""
+
+#: inc/shortcodes/career_list.php:132
+msgid "Applications"
+msgstr ""
+
+#: inc/shortcodes/career_list.php:178 inc/shortcodes/career_list.php:179
+#: template-parts/content-career.php:85
+msgid "n/a"
+msgstr ""
+
+#: inc/shortcodes/career_list.php:181 template-parts/content-career.php:47
+msgid "Apply"
+msgstr ""
+
+#: inc/shortcodes/contact.php:65 inc/shortcodes/sayidan-contact.php:250
+msgid "tel"
+msgstr ""
+
+#: inc/shortcodes/contact.php:69 inc/shortcodes/sayidan-contact.php:254
+msgid "email"
+msgstr ""
+
+#: inc/shortcodes/directory copy.php:346 inc/shortcodes/directory.php:43
+#: inc/shortcodes/widgets/sayidan-directory.php:29
+msgid "Diploma"
+msgstr ""
+
+#: inc/shortcodes/directory copy.php:347 inc/shortcodes/directory.php:44
+#: inc/shortcodes/widgets/sayidan-directory.php:30
+msgid "Graduation Date"
+msgstr ""
+
+#: inc/shortcodes/directory copy.php:349 inc/shortcodes/directory copy.php:504
+#: inc/shortcodes/directory.php:46 inc/shortcodes/directory.php:196
+#: inc/shortcodes/widgets/sayidan-directory.php:32
+msgid "Department"
+msgstr ""
+
+#: inc/shortcodes/directory copy.php:501 inc/shortcodes/directory.php:193
+msgid "Graduation Year"
+msgstr ""
+
+#: inc/shortcodes/directory copy.php:503 inc/shortcodes/directory.php:195
+msgid "School"
+msgstr ""
+
+#: inc/shortcodes/event_single.php:51 inc/shortcodes/events.php:119
+msgid "UPCOMING EVENT"
+msgstr ""
+
+#: inc/shortcodes/event_single.php:82 inc/shortcodes/events.php:129
+#: template-parts/content-event.php:67 template-parts/content-profile.php:61
+msgid "Join Now"
+msgstr ""
+
+#: inc/shortcodes/events.php:183 template-parts/content-event.php:59
+#: template-parts/content-profile.php:54
+msgid "View map"
+msgstr ""
+
+#: inc/shortcodes/events.php:191
+msgid "SOLD OUT"
+msgstr ""
+
+#: inc/shortcodes/events.php:196
+msgid "REGISTER"
+msgstr ""
+
+#: inc/shortcodes/events.php:218 template-parts/content-career.php:157
+#: template-parts/content-event.php:80 template-parts/content-profile.php:73
+msgid "Event Location"
+msgstr ""
+
+#: inc/shortcodes/sayidan-aboutus.php:24
+msgid "Sayidan About us"
+msgstr ""
+
+#: inc/shortcodes/sayidan-aboutus.php:29
+msgid "Create About Us Section"
+msgstr ""
+
+#: inc/shortcodes/sayidan-aboutus.php:42
+msgid "About us title"
+msgstr ""
+
+#: inc/shortcodes/sayidan-aboutus.php:47
+msgid "Text 1"
+msgstr ""
+
+#: inc/shortcodes/sayidan-aboutus.php:52
+msgid "Text 2"
+msgstr ""
+
+#: inc/shortcodes/sayidan-aboutus.php:57
+msgid "Choose background image"
+msgstr ""
+
+#: inc/shortcodes/sayidan-aboutus.php:58 inc/shortcodes/sayidan-banner.php:66
+#: inc/shortcodes/sayidan-map.php:48 inc/shortcodes/sayidan-newsletter.php:53
+#: inc/shortcodes/sayidan-slider.php:78 inc/shortcodes/sayidan-summary2.php:50
+msgid "Choose image"
+msgstr ""
+
+#: inc/shortcodes/sayidan-aboutus.php:59 inc/shortcodes/sayidan-banner.php:67
+#: inc/shortcodes/sayidan-map.php:49 inc/shortcodes/sayidan-newsletter.php:54
+#: inc/shortcodes/sayidan-slider.php:79 inc/shortcodes/sayidan-summary2.php:51
+msgid "Set image"
+msgstr ""
+
+#: inc/shortcodes/sayidan-application.php:24
+msgid "Sayidan Application"
+msgstr ""
+
+#: inc/shortcodes/sayidan-application.php:29
+msgid "Create Application Section"
+msgstr ""
+
+#: inc/shortcodes/sayidan-application.php:42
+msgid "Application title"
+msgstr ""
+
+#: inc/shortcodes/sayidan-application.php:47
+#: inc/shortcodes/sayidan-newsletter.php:76
+msgid "Form ID"
+msgstr ""
+
+#: inc/shortcodes/sayidan-application.php:48
+msgid "Go to Contact > Contact Forms to find your form id. Add custom fields there. Follow contact form 7 documentation."
+msgstr ""
+
+#: inc/shortcodes/sayidan-banner.php:24
+msgid "Sayidan Banner"
+msgstr ""
+
+#: inc/shortcodes/sayidan-banner.php:29
+msgid "Create Banner Section"
+msgstr ""
+
+#: inc/shortcodes/sayidan-banner.php:42 inc/shortcodes/sayidan-blocks.php:54
+#: inc/shortcodes/sayidan-directory.php:42 inc/shortcodes/sayidan-events.php:42
+#: inc/shortcodes/sayidan-info.php:44 inc/shortcodes/sayidan-info.php:69
+#: inc/shortcodes/sayidan-map.php:42 inc/shortcodes/sayidan-news.php:42
+#: inc/shortcodes/sayidan-ourstory.php:44
+#: inc/shortcodes/sayidan-ourstory.php:62 inc/shortcodes/sayidan-slider.php:67
+#: inc/shortcodes/sayidan-summary2.php:44
+#: inc/shortcodes/sayidan-summary2.php:74
+msgid "Title"
+msgstr ""
+
+#: inc/shortcodes/sayidan-banner.php:47 inc/shortcodes/sayidan-map.php:55
+#: inc/shortcodes/sayidan-ourstory.php:67 inc/shortcodes/sayidan-slider.php:72
+msgid "Subtitle"
+msgstr ""
+
+#: inc/shortcodes/sayidan-banner.php:52 inc/shortcodes/sayidan-info.php:74
+#: inc/shortcodes/sayidan-summary2.php:79
+msgid "Text"
+msgstr ""
+
+#: inc/shortcodes/sayidan-banner.php:57
+msgid "Choose banner type from selection below"
+msgstr ""
+
+#: inc/shortcodes/sayidan-banner.php:60
+msgid "Alumni Stories"
+msgstr ""
+
+#: inc/shortcodes/sayidan-banner.php:65
+msgid "Choose background image, preferably 1539 × 551"
+msgstr ""
+
+#: inc/shortcodes/sayidan-banner.php:73
+msgid "Button Link"
+msgstr ""
+
+#: inc/shortcodes/sayidan-banner.php:74
+msgid "Button url"
+msgstr ""
+
+#: inc/shortcodes/sayidan-banner.php:79
+msgid "Button Text"
+msgstr ""
+
+#: inc/shortcodes/sayidan-banner.php:80
+msgid "Button CTA text"
+msgstr ""
+
+#: inc/shortcodes/sayidan-blocks.php:25
+msgid "Sayidan Blocks"
+msgstr ""
+
+#: inc/shortcodes/sayidan-blocks.php:30
+msgid "Create Blocks Section"
+msgstr ""
+
+#: inc/shortcodes/sayidan-blocks.php:44 inc/shortcodes/sayidan-info.php:59
+#: inc/shortcodes/sayidan-ourstory.php:52 inc/shortcodes/sayidan-slider.php:57
+#: inc/shortcodes/sayidan-summary2.php:64
+msgid "Add record"
+msgstr ""
+
+#: inc/shortcodes/sayidan-blocks.php:45 inc/shortcodes/sayidan-info.php:60
+#: inc/shortcodes/sayidan-ourstory.php:53 inc/shortcodes/sayidan-slider.php:58
+#: inc/shortcodes/sayidan-summary2.php:65
+msgid "Click here to setup this record"
+msgstr ""
+
+#: inc/shortcodes/sayidan-blocks.php:59 inc/shortcodes/sayidan-career.php:58
+#: inc/shortcodes/sayidan-gallery.php:63 inc/shortcodes/sayidan-stories.php:68
+msgid "Choose preview type"
+msgstr ""
+
+#: inc/shortcodes/sayidan-blocks.php:62
+msgid "Blog"
+msgstr ""
+
+#: inc/shortcodes/sayidan-blocks.php:63
+msgid "Career"
+msgstr ""
+
+#: inc/shortcodes/sayidan-blocks.php:64
+msgid "Events"
+msgstr ""
+
+#: inc/shortcodes/sayidan-blocks.php:69
+msgid "Number of records"
+msgstr ""
+
+#: inc/shortcodes/sayidan-blocks.php:74 inc/shortcodes/sayidan-career.php:48
+#: inc/shortcodes/sayidan-directory.php:57 inc/shortcodes/sayidan-events.php:47
+#: inc/shortcodes/sayidan-gallery.php:57 inc/shortcodes/sayidan-stories.php:58
+msgid "Category"
+msgstr ""
+
+#: inc/shortcodes/sayidan-blocks.php:79 inc/shortcodes/sayidan-info.php:49
+#: inc/shortcodes/sayidan-newsletter.php:70
+#: inc/shortcodes/sayidan-slider.php:85
+msgid "Button text"
+msgstr ""
+
+#: inc/shortcodes/sayidan-blocks.php:84 inc/shortcodes/sayidan-info.php:54
+#: inc/shortcodes/sayidan-slider.php:90
+msgid "Button link"
+msgstr ""
+
+#: inc/shortcodes/sayidan-blocks.php:89 inc/shortcodes/sayidan-info.php:85
+#: inc/shortcodes/sayidan-ourstory.php:77 inc/shortcodes/sayidan-slider.php:95
+#: inc/shortcodes/sayidan-summary2.php:89
+msgid "Temporary hide this record"
+msgstr ""
+
+#: inc/shortcodes/sayidan-career.php:24
+msgid "Sayidan Career"
+msgstr ""
+
+#: inc/shortcodes/sayidan-career.php:29
+msgid "Create Career Section"
+msgstr ""
+
+#: inc/shortcodes/sayidan-career.php:43 inc/shortcodes/sayidan-directory.php:63
+#: inc/shortcodes/sayidan-news.php:47 inc/shortcodes/sayidan-stories.php:53
+msgid "Records per page"
+msgstr ""
+
+#: inc/shortcodes/sayidan-career.php:53
+msgid "Show filter"
+msgstr ""
+
+#: inc/shortcodes/sayidan-career.php:54
+msgid "Show/hide filter to refine search results"
+msgstr ""
+
+#: inc/shortcodes/sayidan-career.php:61 inc/shortcodes/sayidan-gallery.php:66
+#: inc/shortcodes/sayidan-stories.php:71
+msgid "Normal"
+msgstr ""
+
+#: inc/shortcodes/sayidan-career.php:62 inc/shortcodes/sayidan-gallery.php:67
+#: inc/shortcodes/sayidan-stories.php:72
+msgid "Minified"
+msgstr ""
+
+#: inc/shortcodes/sayidan-contact.php:23
+msgid "Sayidan Contacts"
+msgstr ""
+
+#: inc/shortcodes/sayidan-contact.php:28
+msgid "Display contacts block with map and form"
+msgstr ""
+
+#: inc/shortcodes/sayidan-contact.php:41
+msgid "Contacts Title"
+msgstr ""
+
+#: inc/shortcodes/sayidan-contact.php:46
+msgid "Subtitle left"
+msgstr ""
+
+#: inc/shortcodes/sayidan-contact.php:51
+msgid "Subtitle right"
+msgstr ""
+
+#: inc/shortcodes/sayidan-contact.php:56
+msgid "Some text"
+msgstr ""
+
+#: inc/shortcodes/sayidan-contact.php:61
+msgid "Map latitude"
+msgstr ""
+
+#: inc/shortcodes/sayidan-contact.php:62 inc/shortcodes/sayidan-contact.php:68
+#: inc/shortcodes/sayidan-contact.php:74 inc/shortcodes/sayidan-contact.php:83
+#: inc/shortcodes/sayidan-contact.php:93 inc/shortcodes/sayidan-contact.php:99
+#: inc/shortcodes/sayidan-contact.php:109
+msgid "Important! You have to clear browsing cache after making changes here"
+msgstr ""
+
+#: inc/shortcodes/sayidan-contact.php:67
+msgid "Map longitude"
+msgstr ""
+
+#: inc/shortcodes/sayidan-contact.php:73
+msgid "Map zoom level"
+msgstr ""
+
+#: inc/shortcodes/sayidan-contact.php:82
+msgid "Map hue/color"
+msgstr ""
+
+#: inc/shortcodes/sayidan-contact.php:92
+msgid "Map saturation/brightness level"
+msgstr ""
+
+#: inc/shortcodes/sayidan-contact.php:98
+msgid "Map pointer type"
+msgstr ""
+
+#: inc/shortcodes/sayidan-contact.php:102
+msgid "Balloon"
+msgstr ""
+
+#: inc/shortcodes/sayidan-contact.php:103
+msgid "Pointer"
+msgstr ""
+
+#: inc/shortcodes/sayidan-contact.php:108
+msgid "Map balloon text"
+msgstr ""
+
+#: inc/shortcodes/sayidan-contact.php:114
+msgid "Icon Row One"
+msgstr ""
+
+#: inc/shortcodes/sayidan-contact.php:119
+msgid "Icon Row Two"
+msgstr ""
+
+#: inc/shortcodes/sayidan-contact.php:124
+msgid "Contact form ID"
+msgstr ""
+
+#: inc/shortcodes/sayidan-contact.php:129
+msgid "Email address"
+msgstr ""
+
+#: inc/shortcodes/sayidan-contact.php:134
+msgid "Phone number to call"
+msgstr ""
+
+#: inc/shortcodes/sayidan-contact.php:135
+msgid "Should be a well formatted phone number with country code."
+msgstr ""
+
+#: inc/shortcodes/sayidan-contact.php:140
+msgid "Phone number to display"
+msgstr ""
+
+#: inc/shortcodes/sayidan-contact.php:145
+msgid "Address text"
+msgstr ""
+
+#: inc/shortcodes/sayidan-contact.php:150
+msgid "Button text 1"
+msgstr ""
+
+#: inc/shortcodes/sayidan-contact.php:155
+msgid "Button link 1"
+msgstr ""
+
+#: inc/shortcodes/sayidan-contact.php:160
+msgid "Button text 2"
+msgstr ""
+
+#: inc/shortcodes/sayidan-contact.php:165
+msgid "Button link 2"
+msgstr ""
+
+#: inc/shortcodes/sayidan-directory.php:24
+msgid "Sayidan Directory"
+msgstr ""
+
+#: inc/shortcodes/sayidan-directory.php:29
+msgid "Create Directory Section"
+msgstr ""
+
+#: inc/shortcodes/sayidan-directory.php:47
+msgid "Choose data source"
+msgstr ""
+
+#: inc/shortcodes/sayidan-directory.php:48
+msgid "\"Auto\" list students automatically from registrtions. \"Manual\" register students manually under Directory section from WordPress admin menu."
+msgstr ""
+
+#: inc/shortcodes/sayidan-directory.php:51
+msgid "Auto"
+msgstr ""
+
+#: inc/shortcodes/sayidan-directory.php:52
+msgid "Manual"
+msgstr ""
+
+#: inc/shortcodes/sayidan-directory.php:58
+msgid "You can split directory by different categories (only if \"Manual\" option selected)."
+msgstr ""
+
+#: inc/shortcodes/sayidan-directory.php:64 inc/shortcodes/sayidan-news.php:48
+msgid "Number of records/students to display per one page"
+msgstr ""
+
+#: inc/shortcodes/sayidan-directory.php:68
+msgid "Enable search bar"
+msgstr ""
+
+#: inc/shortcodes/sayidan-directory.php:69
+msgid "Disable/enable search bar"
+msgstr ""
+
+#: inc/shortcodes/sayidan-events.php:24
+msgid "Sayidan Events"
+msgstr ""
+
+#: inc/shortcodes/sayidan-events.php:29
+msgid "Create Events Section"
+msgstr ""
+
+#: inc/shortcodes/sayidan-events.php:48
+msgid "You can split events by different categories"
+msgstr ""
+
+#: inc/shortcodes/sayidan-events.php:53
+msgid "Choose events timeline"
+msgstr ""
+
+#: inc/shortcodes/sayidan-events.php:56
+msgid "Upcomming"
+msgstr ""
+
+#: inc/shortcodes/sayidan-events.php:57
+msgid "Past"
+msgstr ""
+
+#: inc/shortcodes/sayidan-events.php:58
+msgid "All"
+msgstr ""
+
+#: inc/shortcodes/sayidan-events.php:63 inc/shortcodes/sayidan-news.php:52
+msgid "Enable header"
+msgstr ""
+
+#: inc/shortcodes/sayidan-events.php:64
+msgid "Disable/enable events header"
+msgstr ""
+
+#: inc/shortcodes/sayidan-events.php:68
+msgid "Enable pagination"
+msgstr ""
+
+#: inc/shortcodes/sayidan-events.php:69
+msgid "Disable/enable pagination"
+msgstr ""
+
+#: inc/shortcodes/sayidan-gallery.php:24
+msgid "Sayidan Gallery"
+msgstr ""
+
+#: inc/shortcodes/sayidan-gallery.php:29
+msgid "Create Gallery Section"
+msgstr ""
+
+#: inc/shortcodes/sayidan-gallery.php:42
+msgid "Gallery title"
+msgstr ""
+
+#: inc/shortcodes/sayidan-gallery.php:47
+msgid "Images per page"
+msgstr ""
+
+#: inc/shortcodes/sayidan-gallery.php:52
+msgid "Pagination"
+msgstr ""
+
+#: inc/shortcodes/sayidan-gallery.php:53
+msgid "Show/hide paginaton below gallery images"
+msgstr ""
+
+#: inc/shortcodes/sayidan-gallery.php:58
+msgid "You can categorize images by categories"
+msgstr ""
+
+#: inc/shortcodes/sayidan-gallery.php:72
+msgid "Gallery text"
+msgstr ""
+
+#: inc/shortcodes/sayidan-gallery.php:77
+msgid "Gallery icon"
+msgstr ""
+
+#: inc/shortcodes/sayidan-gallery.php:82
+msgid "Link"
+msgstr ""
+
+#: inc/shortcodes/sayidan-gallery.php:83
+msgid "For minified preview type provide link"
+msgstr ""
+
+#: inc/shortcodes/sayidan-info.php:25
+msgid "Sayidan Info"
+msgstr ""
+
+#: inc/shortcodes/sayidan-info.php:30
+msgid "Create Info Section"
+msgstr ""
+
+#: inc/shortcodes/sayidan-info.php:79
+msgid "Icon"
+msgstr ""
+
+#: inc/shortcodes/sayidan-info.php:80
+msgid "Specify icon CSS class here"
+msgstr ""
+
+#: inc/shortcodes/sayidan-map.php:24
+msgid "Sayidan Static Map"
+msgstr ""
+
+#: inc/shortcodes/sayidan-map.php:29
+msgid "Create Static Map Section"
+msgstr ""
+
+#: inc/shortcodes/sayidan-map.php:47
+msgid "Choose background image, preferably 1170 × 500"
+msgstr ""
+
+#: inc/shortcodes/sayidan-map.php:56
+msgid "You can split map by different categories (only if \"Manual\" option selected)."
+msgstr ""
+
+#: inc/shortcodes/sayidan-news.php:24
+msgid "Sayidan News"
+msgstr ""
+
+#: inc/shortcodes/sayidan-news.php:29
+msgid "Create News Feed Section"
+msgstr ""
+
+#: inc/shortcodes/sayidan-news.php:53
+msgid "Disable/enable header"
+msgstr ""
+
+#: inc/shortcodes/sayidan-newsletter.php:24
+msgid "Sayidan Newsletter"
+msgstr ""
+
+#: inc/shortcodes/sayidan-newsletter.php:29
+msgid "Create Newsletter Signup Section"
+msgstr ""
+
+#: inc/shortcodes/sayidan-newsletter.php:42
+msgid "Newsletter title"
+msgstr ""
+
+#: inc/shortcodes/sayidan-newsletter.php:47
+msgid "Newsletter subtitle"
+msgstr ""
+
+#: inc/shortcodes/sayidan-newsletter.php:52
+msgid "Choose background image, preferably 1539 × 466"
+msgstr ""
+
+#: inc/shortcodes/sayidan-newsletter.php:60
+msgid "Enable parallax"
+msgstr ""
+
+#: inc/shortcodes/sayidan-newsletter.php:61
+msgid "Disable/enable background image parallax effect"
+msgstr ""
+
+#: inc/shortcodes/sayidan-newsletter.php:65
+msgid "Newsletter placeholder"
+msgstr ""
+
+#: inc/shortcodes/sayidan-newsletter.php:77
+msgid "Go to Mailchimp for WP > Forms to find your form id. Follow instructions to register mailchilp API key."
+msgstr ""
+
+#: inc/shortcodes/sayidan-ourstory.php:25
+msgid "Sayidan Our Story"
+msgstr ""
+
+#: inc/shortcodes/sayidan-ourstory.php:30
+msgid "Create Our Story Section"
+msgstr ""
+
+#: inc/shortcodes/sayidan-ourstory.php:48
+msgid "Subitle"
+msgstr ""
+
+#: inc/shortcodes/sayidan-ourstory.php:72
+msgid "Year"
+msgstr ""
+
+#: inc/shortcodes/sayidan-singleevent.php:24
+msgid "Sayidan Single Event"
+msgstr ""
+
+#: inc/shortcodes/sayidan-singleevent.php:29
+msgid "Create Single Event Signup Section"
+msgstr ""
+
+#: inc/shortcodes/sayidan-singleevent.php:42
+msgid "Event ID"
+msgstr ""
+
+#: inc/shortcodes/sayidan-singleevent.php:43
+msgid "Go to Event section and pick single event ID to display here"
+msgstr ""
+
+#: inc/shortcodes/sayidan-slider.php:25
+msgid "Sayidan Slider"
+msgstr ""
+
+#: inc/shortcodes/sayidan-slider.php:30
+msgid "Create Slider Section"
+msgstr ""
+
+#: inc/shortcodes/sayidan-slider.php:44
+msgid "Turn on slider autoplay"
+msgstr ""
+
+#: inc/shortcodes/sayidan-slider.php:48
+msgid "Loop slides"
+msgstr ""
+
+#: inc/shortcodes/sayidan-slider.php:52
+msgid "Autoplay timeout"
+msgstr ""
+
+#: inc/shortcodes/sayidan-slider.php:77
+msgid "Choose background image, preferably 1539 × 779"
+msgstr ""
+
+#: inc/shortcodes/sayidan-stories.php:24
+msgid "Sayidan Stories"
+msgstr ""
+
+#: inc/shortcodes/sayidan-stories.php:29
+msgid "Create Stories Section"
+msgstr ""
+
+#: inc/shortcodes/sayidan-stories.php:43
+msgid "Number of columns per row"
+msgstr ""
+
+#: inc/shortcodes/sayidan-stories.php:46
+msgid "1 Column"
+msgstr ""
+
+#: inc/shortcodes/sayidan-stories.php:47
+msgid "2 Column"
+msgstr ""
+
+#: inc/shortcodes/sayidan-stories.php:48
+msgid "3 Column"
+msgstr ""
+
+#: inc/shortcodes/sayidan-stories.php:63
+msgid "Hide date"
+msgstr ""
+
+#: inc/shortcodes/sayidan-stories.php:64
+msgid "Show/hide date from story posts"
+msgstr ""
+
+#: inc/shortcodes/sayidan-summary2.php:25
+msgid "Sayidan Summary"
+msgstr ""
+
+#: inc/shortcodes/sayidan-summary2.php:30
+msgid "Create Summary Section"
+msgstr ""
+
+#: inc/shortcodes/sayidan-summary2.php:49
+msgid "Choose featured image"
+msgstr ""
+
+#: inc/shortcodes/sayidan-summary2.php:57
+msgid "Animation"
+msgstr ""
+
+#: inc/shortcodes/sayidan-summary2.php:84
+msgid "Content"
+msgstr ""
+
+#: inc/shortcodes/sayidan-twitter.php:24
+msgid "Sayidan Twitter"
+msgstr ""
+
+#: inc/shortcodes/sayidan-twitter.php:29
+msgid "Create Twitter Section"
+msgstr ""
+
+#: inc/shortcodes/sayidan-twitter.php:42
+msgid "Temporary hide twitter section"
+msgstr ""
+
+#: inc/shortcodes/sayidan-twitter.php:43
+msgid "Go to Cutomizer > Social Networks > Provide Twitter API key"
+msgstr ""
+
+#: inc/shortcodes/share.php:22 inc/template-tags.php:282
+msgid "Share on Facebook"
+msgstr ""
+
+#: inc/shortcodes/share.php:23 inc/template-tags.php:283
+msgid "Share on Twitter"
+msgstr ""
+
+#: inc/shortcodes/share.php:24 inc/template-tags.php:284
+msgid "Share on Google+"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:30
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+
+#: inc/template-tags.php:46 inc/template-tags.php:52
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:48
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:54
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+
+#: inc/template-tags.php:61
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post
+
+#: inc/template-tags.php:68 template-parts/content-page.php:30
+msgid "Edit %s"
+msgstr ""
+
+#: inc/template-tags.php:84 inc/template-tags.php:115 inc/template-tags.php:145
+msgid "Page"
+msgstr ""
+
+#: inc/template-tags.php:92 inc/template-tags.php:123 inc/template-tags.php:149
+msgid "Previous"
+msgstr ""
+
+#: inc/template-tags.php:93 inc/template-tags.php:124 inc/template-tags.php:150
+msgid "Next"
+msgstr ""
+
+#: inc/template-tags.php:194
+msgid "Previous Story"
+msgstr ""
+
+#: inc/template-tags.php:199
+msgid "Next Story"
+msgstr ""
+
+#: inc/template-tags.php:224
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:224 inc/template-tags.php:249
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:239
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:246
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-tags.php:280
+msgid "SHARE THIS STORY"
+msgstr ""
+
+#: inc/template-tags.php:304
+msgid "Jan"
+msgstr ""
+
+#: inc/template-tags.php:305
+msgid "Feb"
+msgstr ""
+
+#: inc/template-tags.php:306
+msgid "Mar"
+msgstr ""
+
+#: inc/template-tags.php:307
+msgid "Apr"
+msgstr ""
+
+#: inc/template-tags.php:308 inc/template-tags.php:328
+msgid "May"
+msgstr ""
+
+#: inc/template-tags.php:309
+msgid "Jun"
+msgstr ""
+
+#: inc/template-tags.php:310
+msgid "Jul"
+msgstr ""
+
+#: inc/template-tags.php:311
+msgid "Aug"
+msgstr ""
+
+#: inc/template-tags.php:312
+msgid "Sep"
+msgstr ""
+
+#: inc/template-tags.php:313
+msgid "Oct"
+msgstr ""
+
+#: inc/template-tags.php:314
+msgid "Nov"
+msgstr ""
+
+#: inc/template-tags.php:315
+msgid "Dec"
+msgstr ""
+
+#: inc/template-tags.php:324
+msgid "January"
+msgstr ""
+
+#: inc/template-tags.php:325
+msgid "February"
+msgstr ""
+
+#: inc/template-tags.php:326
+msgid "March"
+msgstr ""
+
+#: inc/template-tags.php:327
+msgid "April"
+msgstr ""
+
+#: inc/template-tags.php:329
+msgid "June"
+msgstr ""
+
+#: inc/template-tags.php:330
+msgid "July"
+msgstr ""
+
+#: inc/template-tags.php:331
+msgid "August"
+msgstr ""
+
+#: inc/template-tags.php:332
+msgid "September"
+msgstr ""
+
+#: inc/template-tags.php:333
+msgid "October"
+msgstr ""
+
+#: inc/template-tags.php:334
+msgid "November"
+msgstr ""
+
+#: inc/template-tags.php:335
+msgid "December"
+msgstr ""
+
+#: inc/template-tags.php:344
+msgid "Sun"
+msgstr ""
+
+#: inc/template-tags.php:345
+msgid "Mon"
+msgstr ""
+
+#: inc/template-tags.php:346
+msgid "Tue"
+msgstr ""
+
+#: inc/template-tags.php:347
+msgid "Wed"
+msgstr ""
+
+#: inc/template-tags.php:348
+msgid "Thu"
+msgstr ""
+
+#: inc/template-tags.php:349
+msgid "Fri"
+msgstr ""
+
+#: inc/template-tags.php:350
+msgid "Sat"
+msgstr ""
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:3
+msgid "New search"
+msgstr ""
+
+#. translators: %s: Name of current post.
+
+#: template-parts/content-blog-fullwidth.php:40
+#: template-parts/content-blog-index.php:41 template-parts/content-blog.php:47
+#: template-parts/content-story.php:39
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content-blog-fullwidth.php:45
+#: template-parts/content-blog-index.php:49 template-parts/content-blog.php:55
+#: template-parts/content-page.php:19 template-parts/content-story.php:44
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-career.php:26
+msgid "< $20,000"
+msgstr ""
+
+#: template-parts/content-career.php:31
+msgid "> $200,000"
+msgstr ""
+
+#: template-parts/content-career.php:51
+msgid "About Company"
+msgstr ""
+
+#: template-parts/content-career.php:69
+msgid "online"
+msgstr ""
+
+#: template-parts/content-career.php:79
+msgid "Job Details"
+msgstr ""
+
+#: template-parts/content-career.php:121
+msgid "Skills & Requirements"
+msgstr ""
+
+#: template-parts/content-career.php:144
+msgid "Apply to"
+msgstr ""
+
+#: template-parts/content-denied.php:32 template-parts/content-denied.php:33
+msgid "Access Denied"
+msgstr ""
+
+#: template-parts/content-denied.php:35
+msgid "You are not authorized to access this page"
+msgstr ""
+
+#: template-parts/content-denied.php:36
+msgid "Please Log In by clicking on the"
+msgstr ""
+
+#: template-parts/content-denied.php:36
+msgid "Log In"
+msgstr ""
+
+#: template-parts/content-denied.php:36
+msgid "link to the right."
+msgstr ""
+
+#: template-parts/content-denied.php:37
+msgid "Thank You"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-search.php:18 template-parts/content-tag.php:18
+msgid "By:"
+msgstr ""
+
+#: template-parts/content-search.php:20 template-parts/content-tag.php:20
+msgid "Category:"
+msgstr ""
+
+#: template-parts/content-search.php:22 template-parts/content-tag.php:22
+msgid "Comments"
+msgstr ""
+
+#: template-parts/content-story.php:53
+msgid "Posted By"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Sayidan"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://sayidan.kenzap.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Sayidan - University Alumni WP Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Kenzap"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://kenzap.com"
+msgstr ""
